@@ -1,2 +1,2 @@
 # Hotel-Booking-System
-Programming language used :- C++
+Made in C++ using OOPS concept
